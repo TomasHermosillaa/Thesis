@@ -1,0 +1,66 @@
+version = 4
+name = PLA+_Definitive
+definition = creality_base
+
+[metadata]
+type = quality_changes
+quality_type = not_supported
+setting_version = 19
+
+[values]
+acceleration_enabled = True
+bridge_settings_enabled = True
+jerk_enabled = True
+layer_height = 0.18
+layer_height_0 = 0.18
+material_bed_temperature = 50
+material_bed_temperature_layer_0 = 55
+retraction_combing = all
+support_enable = True
+support_type = buildplate
+
+PK       ! ое©щ  щ  (   creality_base_extruder_0_pla+_definitive[general]
+version = 4
+name = PLA+_Definitive
+definition = creality_base
+
+[metadata]
+type = quality_changes
+quality_type = not_supported
+intent_category = default
+position = 0
+setting_version = 19
+
+[values]
+acceleration_travel = 1500
+acceleration_wall_0 = 250
+bottom_layers = 6
+cool_fan_full_at_height = 0.8
+cool_fan_speed = 100
+cool_lift_head = True
+cool_min_layer_time = 5
+infill_material_flow = 98
+jerk_travel = 20
+material_print_temperature = 215
+material_print_temperature_layer_0 = 215
+retract_at_layer_change = True
+retraction_amount = 7
+retraction_extrusion_window = 8
+retraction_speed = 30
+roofing_layer_count = 3
+skin_angles = [ 90]
+speed_print = 40
+speed_travel = 200
+speed_wall_0 = 15.0
+speed_wall_x = 30
+support_angle = 70
+support_bottom_stair_step_height = 0.4
+support_fan_enable = True
+support_infill_rate = 5
+support_interface_density = 80
+support_interface_height = 0.8
+support_z_distance = 0.2
+wall_line_count = 4
+wall_overhang_angle = 65
+wall_overhang_speed_factor = 25
+
